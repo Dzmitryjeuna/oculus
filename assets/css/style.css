@@ -674,6 +674,10 @@ header {
   .subtitle {
     font-size: 26px;
   }
+
+  .buy-btn__price--light {
+    background-color: #e1dad6ba;
+  }
 }
 
 @media (max-width: 640px) {
@@ -705,10 +709,6 @@ header {
 
   .top {
     text-align: center;
-  }
-
-  .buy-btn__price {
-    background-color: #e1dad6ba;
   }
 
 }
